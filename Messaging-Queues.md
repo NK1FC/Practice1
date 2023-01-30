@@ -31,3 +31,4 @@ Messaging Queues, commonly referred to as Message brokers, are a sort of softwar
 * Amazon. "Benefits of Message Queues". Retrieved from https://aws.amazon.com/message-queue/benefits/  
 * Churchville, Fred. "Enterprise Service Bus (ESB)" TechTarget, https://www.techtarget.com/searchapparchitecture/definition/Enterprise-Service-Bus-ESB
 * Coursible. "Introduction to Enterprise Service Bus" Youtube, 14 oct. 2016, https://www.youtube.com/watch?v=cW9SiCH0kYs   
+* CData Arc Marketing, "Modern ESBs: Pros & Cons" Cdata, 14 Jan. 2020, https://arc.cdata.com/blog/20200114-modern-esb
